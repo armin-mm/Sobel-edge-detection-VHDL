@@ -1,0 +1,1 @@
+Modified version of an edge detector, with a threshold capable of adaptively choosing the sensitivity of edge detection.
